@@ -1,2 +1,2 @@
 # Dictionary-Thesaurus
-This is a kind of smart dictionary
+This is a kind of smart dictionary which tells the meaning of the word. In case you type the spelling of the word wrong it is going to show you some similar words and based on your response is going to give you the results. To get used to functions and other methods of Python the program is using 2 functions(NOTE : only one function was enough). In this code you will see about JSON(java script object notation). A library is used - "difflib" for finding out the words which are similar to the word which is given input. 
